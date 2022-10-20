@@ -1,0 +1,12 @@
+.nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #116466;
+    z-index: 10;
+    
+}
+
+a {
+    color: #D9B08C !important;
+}
