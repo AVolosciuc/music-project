@@ -1,9 +1,8 @@
 .content-container {
     display: flex;
     justify-content: center;
-    /* background-color: #2C3531; */
+    margin-top: 50px;
 }
-
 
 .card{
     display: flex;
@@ -11,8 +10,13 @@
     justify-content: center;
     flex-direction: column;
     width: 800px;
+    background-color: #116466 !important;
 }
 
-.custome {
-    color: red;
+h5 {
+    color:#D9B08C ;
+}
+
+p {
+    color: #D1E8E2;
 }
